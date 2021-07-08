@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateusLPG! I'm a brazilian junior full-stack developer
 Currently studying ✨ <strong>Javascript | Typescript | Angular | ReactJS | Java | Springboot</strong> ✨
 
-I have already developed some APIs with Angular. However, i'm focusing on React and Spring Boot.
+I have already developed some APIs with Angular. And it is the framework i am currently using in my job!
 
 And I also have experience with GCP and Azure 👀
 
